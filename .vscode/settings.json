@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.port": 5501,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.NegateSearchOnDefault": true,
+  "liveServer.settings.showExplorer": true,
+  "liveServer.settings.useWebExt": false,
+  "liveServer.settings.useCORS": true,
+  "liveServer.settings.AdvanceCustomizedBrowserCmdLine": "",
+  "liveServer.settings.MultiRootWorkspacePath": ""
+}
